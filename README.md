@@ -75,3 +75,12 @@ The Mentor-Mentee Dashboard is a comprehensive platform designed to streamline m
    npm install
 
 4. **Set Up the Database:**
+    Configure MySQL with a database for storing mentee data.
+    Update the project’s configuration file with database credentials.
+
+5. **Run the Development Server:**
+   npm start
+
+6. Open your browser and go to http://localhost:3000.
+
+
